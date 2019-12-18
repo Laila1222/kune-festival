@@ -5,7 +5,7 @@ import Footer from '../Footer/Footer.js';
 
 const Home = () => {
     return (
-        <div className="container pt-3">
+        <div>
             <Navigation />
             <MainAnimation />
             <Footer />

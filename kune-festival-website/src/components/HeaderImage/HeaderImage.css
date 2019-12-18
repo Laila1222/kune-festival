@@ -1,0 +1,9 @@
+.header-image {
+    width: 100%;
+}
+
+.tickets-header-image {
+    border-radius: 100%;
+    width: 30vw;
+    padding: 4rem 2rem;
+}

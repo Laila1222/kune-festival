@@ -1,3 +1,7 @@
 .primary-font {
     font-family: 'Nanum Pen Script', cursive;
 }
+
+* {
+    box-sizing: border-box;
+}
