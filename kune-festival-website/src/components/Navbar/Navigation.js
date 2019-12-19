@@ -10,12 +10,12 @@ const Navigation = () => {
   return (
     <div className="container pt-3">
       <nav className="navbar navbar-expand-lg navbar-light  primary-font nav-link-size">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           <img
             src={Logo}
             width="30"
             height="30"
-            classNameName="d-inline-block align-top"
+            className="d-inline-block align-top"
             alt="React Bootstrap logo"
           />
         </a>

@@ -5,9 +5,9 @@ import './MainAnimation.css';
 
 const MainAnimation = () => {
   return (
-    <div className="home-main-div w-100 text-center">
+    <div className="home-main-div w-50 text-center">
 
-      <img className="w-50" src={Logo} alt="logo" />
+      <img className="header-image" src={Logo} alt="logo" />
       
     </div>
   );

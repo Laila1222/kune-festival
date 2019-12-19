@@ -27,3 +27,4 @@ const IntroPart = ({
 };
 
 export default IntroPart;
+
